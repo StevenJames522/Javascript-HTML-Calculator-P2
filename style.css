@@ -1,0 +1,55 @@
+body{
+	background-color:#4286f4;
+}
+
+h1{
+	text-align:center; 
+	font-family: 'Open Sans', sans-serif;
+	font-size:3em;
+
+}
+#calculator-brand{
+	text-align:right;
+	color:white;
+	font-size:1.5em;
+	font-family:'Open Sans'
+	
+	
+}
+
+#keypad{
+	width:265px;
+	margin-left:auto;
+	margin-right:auto;
+	
+	
+}
+table{
+	background-color: #4153f4;
+	border-radius: 10px;
+	padding: 10px;
+}
+#display-bar{
+	background-color:#42f44b;
+    margin-bottom: 10px;
+	height: 50px;
+	width:230px;
+	font-size:3em;
+	font-family: 'VT323', monospace;
+	overflow: hidden;
+	white-space: nowrap;
+	border-radius: 10px;
+	padding left: 10px;
+}
+
+input[type=button]{
+    background-color:red;
+	height: 50px;
+	width: 50px;
+	font-size:1em;
+	border-radius: 10px;
+	margin: 3px;
+	
+
+	
+}
